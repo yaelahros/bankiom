@@ -1,6 +1,6 @@
 <?php
 include 'curl.php';
-echo "Reffmu (ex: sFflyVB): ";
+echo "Te0vjfk(ex: sFflyVB): ";
 $reff = trim(fgets(STDIN));
 while(true){
 $nama = explode(" ", nama());
