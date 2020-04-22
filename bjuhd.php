@@ -28,4 +28,4 @@ echo color("green", "[✓]")." | ".color("yellow",$curl1);
 echo color("red", "[×]")." | ".color("yellow",$curl1);
 }
 echo "\n";
-}
+Sleep(rand(20,25));}
